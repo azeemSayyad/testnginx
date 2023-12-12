@@ -11,7 +11,7 @@ function App() {
       </Routes>
 
       <div className="App">
-        Hello This is the react app, build for testing the nginx :)
+        Hello This is the react app, build for testing the nginx push 2 :)
       </div>
     </BrowserRouter>
   );
